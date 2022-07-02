@@ -1,5 +1,3 @@
-//! File and filesystem-related syscalls
-
 const FD_STDOUT: usize = 1;
 
 // YOUR JOB: 修改 sys_write 使之通过测试
